@@ -1,0 +1,164 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+}
+.logo img{
+    width: 100px;
+    height: 50px;
+    border: 3px solid red;
+    border-radius: 100%;
+    
+
+}
+
+.navbar{
+    display: block;
+    background-color: red;
+}
+
+.nav-list{
+    width: 100%;
+    display: flex; 
+    margin-left: 10%;
+    margin-right: 30%;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+.nav-list li{ 
+    list-style: none;
+    padding: 26px 35px 26px 0;
+    
+}
+
+
+.nav-list li a{
+    text-decoration: none;
+    color:black;
+    padding: 26px 30px;
+    border:red 1px solid;
+}
+
+.nav-list li a:hover{
+    color:red;
+    background-color: white;
+    border: black 1px solid;
+    
+}
+
+.secLeft{
+    height: auto;
+    justify-content: center;
+    align-items: center;
+    display: block;
+    background-color: antiquewhite;
+}
+
+.secLeft img{
+color: aliceblue;
+
+}
+
+.paras{
+    padding-top: 10px;
+    padding-bottom: 30px;
+    margin-left: 15%;
+    margin-right: 30%;
+}
+
+.background{
+    background-color: red;
+}
+
+.text-footer{
+    text-align: center;
+    padding: 30px 0;
+    
+    justify-content: center;
+    color: white;
+    background-color: red;
+
+}
+
+@media only screen and (max-width: 1105px){
+    .nav-list{
+        flex-direction: column;
+    }
+    .navbar{
+        flex-direction: column;
+    }
+
+}
+.space{
+    display: block;
+    
+    padding-bottom: 100px;
+}
+
+.btn{
+    border:0px; 
+    background:linear-gradient(#900,#D50000);
+    width:100px; 
+    height:30px; 
+    border-radius:10px 1px 10px 1px; 
+    box-shadow:1px 1px 5px black; 
+    color:white; 
+    font-weight:bold; 
+    font-size:14px; text-shadow:1px 1px 6px black; 
+}
+.lefttd{
+    margin-left: 10%;
+    padding: 10px 10px 10px 40px;
+}
+
+.headtd{
+    text-align: center;
+}
+
+.table{
+    margin:auto; 
+    width:80%; 
+}
+
+.container{
+    height:auto; 
+    width:700px; 
+    margin:auto; 
+    margin-top:10px; 
+    margin-bottom:10px; 
+    background-color:#f8f1e4; 
+    border:2px solid red; 
+    box-shadow:4px 1px 20px black;
+}
+
+.search{
+    text-align: right;
+    padding: 40px 0 10px 0;
+    margin-right: 15%;
+}
+
+.searchtext{
+    font-weight:bold; 
+}
+
+.clickhere{
+    text-decoration: none;
+    color:red;
+}
+
+.cancelbtn{
+    text-decoration: none;
+    color:white
+}
+
+.profilepic{
+    width: 200px;
+    height: 300px;
+}
