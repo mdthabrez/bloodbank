@@ -6,16 +6,16 @@ This system simplifies blood donation, inventory tracking, and distribution, mak
 ## Tech Stack
 
 **Client:**   
->- HTML5  
->- CSS  
->- JavaScript 
+  - HTML5  
+  - CSS  
+  - JavaScript 
 
 **Server:**  
->- PHP
+  - PHP
 
 **Database:**  
->- phpMyAdmin  
->- MySQL
+  - phpMyAdmin  
+  - MySQL
 
 
 ## Features
