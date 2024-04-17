@@ -33,7 +33,7 @@ This system simplifies blood donation, inventory tracking, and distribution, mak
 - I honed my skills in database management and SQL Query building and optimization.
 
 
-## 🔗 Links
+## 🔗 Contact
 Mohammed Thabrez G
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-thabrez/)
